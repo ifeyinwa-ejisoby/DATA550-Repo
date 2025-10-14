@@ -1,0 +1,9 @@
+---
+title: My First Git Repo
+author: Ify Nwosu
+output: github_document 
+--- 
+
+# My First Commit 
+
+Here is some text that constitutes my first communt in my first repository. 
